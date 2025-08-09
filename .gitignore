@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Visual Studio
+.vscode/
+*.vs/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
