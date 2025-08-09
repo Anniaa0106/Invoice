@@ -23,7 +23,7 @@ and implements Repository and Unit of Work patterns. Swagger UI is included for 
 ### Running the API
 Clone the repo  
    ```bash
-   git clone https://github.com/<your-username>/InvoiceCsProj.git
+   git clone https://github.com/Anniaa0106/InvoiceCsProj.git
    cd InvoiceCsProj/InvoiceApi
 
 
